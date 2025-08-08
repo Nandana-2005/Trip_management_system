@@ -34,28 +34,6 @@ After the selection, the program generates a **final invoice** with a detailed c
 3. **Generate Invoice**  
    Displays a complete cost breakdown and total amount.
 
-#Example output of the itineray and invoice generated
---------------------- Itinerary ---------------------
-
-Itinerary for Kerala - Package 2:
-Day 1: Explore Kochi
-Day 2: Visit Munnar
-Day 3: Enjoy Alleppey
-
-CustomerID     : 57
-Name           : Nandana
-Contact Number : 9042768865
-Date of birth  : 5-8-2005
-Gender         : Female
-Number of People : 2
-Email Id       : nnan@gmail.com
-Address        : tamil Nadu,India
-Pincode        : 600037
-
------------------------ Invoice -----------------------
-Selected Package:   Package 2
-Total Cost:         Rs.59000.00
--------------------------------------------------------
 
 
 
